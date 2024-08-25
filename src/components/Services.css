@@ -1,0 +1,41 @@
+.services {
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .services h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .service {
+    margin-bottom: 40px;
+  }
+  
+  .service h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .service p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .services h1 {
+      font-size: 28px;
+    }
+  
+    .service h2 {
+      font-size: 20px;
+    }
+  
+    .service p {
+      font-size: 16px;
+    }
+  }
+
+  

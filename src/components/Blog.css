@@ -1,0 +1,40 @@
+.blog {
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .blog h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .blog article {
+    margin-bottom: 40px;
+  }
+  
+  .blog h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .blog h1 {
+      font-size: 28px;
+    }
+  
+    .blog h2 {
+      font-size: 20px;
+    }
+  
+    .blog p {
+      font-size: 16px;
+    }
+  }
+  

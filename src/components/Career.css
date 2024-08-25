@@ -1,0 +1,54 @@
+.career {
+    padding: 50px 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .career h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .career p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .job-listings {
+    margin-top: 20px;
+  }
+  
+  .job {
+    margin-bottom: 20px;
+  }
+  
+  .job h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  
+  .job p {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+  @media (max-width: 768px) {
+    .career h1 {
+      font-size: 28px;
+    }
+  
+    .career p {
+      font-size: 16px;
+    }
+  
+    .job h3 {
+      font-size: 20px;
+    }
+  
+    .job p {
+      font-size: 16px;
+    }
+  }
+  
